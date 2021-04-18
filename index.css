@@ -1,0 +1,180 @@
+body{
+  background-color: #181015;
+  font-style: normal;
+  font-family: "TrendSansW00-Four";
+  font-size: larger;
+  margin-left: 40px;
+  margin-right:  40px;
+  text-align: justify;
+  align-items: center;
+}
+
+#banner{
+  height: 700px;
+  background-image: url('images/6619.jpg');
+  background-repeat: no-repeat;
+  border-radius: 8px;
+  background-size: cover;
+  text-align: center;
+  align-items: center;
+  border: 4px solid #f77f00;
+  margin-bottom: 15px;
+  position: relative;
+
+}
+
+
+#banner p{
+  color: white;
+}
+
+
+.box {
+  height: 12%;
+  width: 45%;
+  background-color: #f77f00;
+  opacity: 20% ;
+  text-align: center;
+  position: absolute;
+  left: 28%;
+  top: 1%;
+}
+
+.section-1{
+  flex-direction: column;
+  display: flex;
+  color: white;
+  text-align: center;
+}
+
+.section-2{
+  display: flex;
+  flex-direction: column;
+  background: #181015; 
+  display: flex;
+  color: white;
+}
+
+.section-3{
+  display: flex;
+  flex-direction: column;
+  background: #181015; 
+  display: flex;
+  color: white;
+}
+
+.section-4{
+  display: flex;
+  flex-direction: column;
+  background: #181015; 
+  display: flex;
+  color: white;
+}
+
+.sec-row{
+  text-align: center;
+  font-family: "TrendSansW00-Four";
+  font-size: 20px;
+}
+.section-3 .sec-row{
+  text-align: center;
+  font-family: "TrendSansW00-Four";
+}
+
+.sec-row h2{
+  font-size: 60px !important;
+}
+
+.section-3 .sec-row h2{
+  font-size: 60px !important;
+}
+
+
+.mem{
+  display: flex;
+  text-align: center;
+}
+.members{
+  flex: 25%;
+  margin: 20px;
+}
+.members img{
+  height: 300px;
+  width: 300px;
+}
+.member-info{
+  margin: 10px;
+}
+.member-name{
+  font-size: 24px;
+  font-weight: 900;
+}
+.member-position{
+  font-size: 15px;
+}
+.alb{
+  display: flex;
+  text-align: center;
+}
+.albums{
+  flex: 25%;
+  margin: 20px;
+}
+.albums img{
+  height: 300px;
+  width: 300px;
+}
+.album-info{
+  margin: 10px;
+}
+.album-name{
+  font-size: 24px;
+  font-weight: 900;
+}
+.album-release{
+  font-size: 15px;
+}
+h1{
+  color: #f77f00;
+  text-align: center;
+  font-size: 60px !important;
+  font-family: "TrendSansW00-Four";
+}
+
+h2{
+  color: #f77f00;
+  font-weight: 800;
+}
+
+#banner h2{
+  color: #f77f00;
+  text-align: center;
+  font-size: 80px !important;
+  margin-top: auto;
+}
+
+span{
+  font-weight: 100;
+  color: #f77f00;
+}
+
+
+li{
+  color: #f77f00;
+  font-size: 20px;
+}
+
+#footer{
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 40px;
+  background-color: #003049;
+  color: #f77f00;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 8px;
+  text-align: center;
+}
