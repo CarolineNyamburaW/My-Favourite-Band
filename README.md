@@ -11,7 +11,7 @@ I have also included my favourite albums and a list of my favourite songs }
 {HTML and CSS}
 
 ## Support and contact details
-{For enquiries feel free to contact me : email - caroline.nyambuta@student@moringaschool.com}
+{For enquiries feel free to contact me : email - caroline.nyambuta@student.moringaschool.com}
 
 ## Github Pages
 https://carolinenyamburaw.github.io/My-Favourite-Band/
