@@ -11,9 +11,10 @@ I have also included my favourite albums and a list of my favourite songs }
 {HTML and CSS}
 
 ## Support and contact details
-{For enquiries feel free to contact me : email - zarryzarinah@gmail.com}
-### License
+{For enquiries feel free to contact me : email - caroline.nyambuta@student@moringaschool.com}
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+## Github Pages
+https://carolinenyamburaw.github.io/My-Favourite-Band/
+
 
 Copyright (c) {2021} 
